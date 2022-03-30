@@ -1,0 +1,3 @@
+Pour le filtre
+
+Filtre FIR avec au début fréquence FIR puis fréquence variable.
